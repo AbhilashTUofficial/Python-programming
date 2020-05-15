@@ -6,7 +6,11 @@
 USAGE:
 
 
-       I created this game based of the simple classic pong game, but on i also added some new features to it like a multiplayer mode and an ai mode. on multiplayer mode the game can support two players. On AI mode the player can challenge a build in AI , but the AI is so strong that the player cant beat the AI, The game has an feature to increase the speed of the ball by time and this make the game even harder and more nice.
+       I created this game based of the simple classic pong game, but on i also added some new features to it
+       like a multiplayer mode and an ai mode. on multiplayer mode the game can support two players. On AI mode
+       the player can challenge a build in AI , but the AI is so strong that the player cant beat the AI, 
+       The game has an feature to increase the speed of the ball by time and this make the game even harder
+       and more nice.
 
 
 WHAT I LEARNED:
