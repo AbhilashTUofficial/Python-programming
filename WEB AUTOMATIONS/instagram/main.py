@@ -3,7 +3,7 @@ import time
 import javascript
 
 username=['_broken_excalibur_','__','e']
-password='zv51yf30bj'
+password='password'
 driver = webdriver.Chrome()
 finish = False
 firstTime=True
