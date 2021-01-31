@@ -1,5 +1,5 @@
 # Python-programming
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Python is my go-to language for developing games, families in the turtle module, and framework pygame, TensorFlow Selenium allows me to develop games and scripts faster than ever. I learned python after c++, at the beginning I couldn't help to like python because it is a loosely typed language, I always blame it for its slow operation time. Gradually I understood python is not the one language to rule them all but it has good uses.
 <br/>
 ### Languages & tools :
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">][vscode]
